@@ -5,7 +5,6 @@ draft = false
 date = "2025-07-22"
 +++
 
-
 I am an applied mathematician and a software engineer. My beat is public health - I work at the intersection of public health and analytics. I develop methods and tools to support outbreak response, and am currently working on a whole health-sysem model (Thanzi La Onse (TLO) model). I am a Research Fellow at Imperial College London. 
 
 
