@@ -1,0 +1,36 @@
++++
+title = "Notes on Approximate Inference"
+draft = false
+date = "2025-07-22"
++++
+
+My notes from Chapter 10 of Bishop's book.
+
+
++ Evaluation of posterior over latent variables is hard.
+  + note that unlike model parameters, latent variables scale with the size of the dataset.
++ Hence the need to approximate; can do this via stochastic or deterministic approximations.
+  + Stochastic techniques - MCMC; approximate because compute time is finite. Given infinite time, would (generally) generate exact result.
+
+  + Deterministic technique - analytical approximations to the posterior distribution.
+    + scale well to large applications, but
+    + can never generate exact results.
+
++ Notation: X - data; Z - everything else including model parameters and latent variables
+
++ Goal: find an approximation for the posterior distribution p(Z|X) and model evidence p(X).
++ log marginal probability P(X) decomposes as a sum of evidence lower bound and KL divergence component.
+   + we know how to minimise this - simply set q to be p(Z|X) and KL divergence vanishes. BUT,
+   + what if we can't work with p(Z|X) - as in all ut trivial cases? We approximate.
+   + approximate how? Look in a restricted space of distributions, and choose q(Z) so that KL is minimised.
+     + we can't over-fit here, because given the data and the model, the posterior is fixed. We are not ``fitting'' to the posterior, we are ``approximating'' it. So we choose as flexible as a space of distributions as we can work with. This is in contrast to fitting a model to data; our observed data is but one sample from the reality, so we don't want to approximate it too closely.
+  + One way of going about this: assume q distribution factorizes to a partition of Z.
+    + partition can be arbitrary, but in practice is guided by model structure. 
+       
+       
+      
+     
+        
+    
+ 
+ 

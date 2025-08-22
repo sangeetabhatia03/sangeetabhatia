@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'human generated content'
+theme = 'xmin'
+[markup.goldmark.renderer]
+  unsafe = true
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Stuff"
+    url = "stuff/"
+    weight = 2

@@ -1,0 +1,12 @@
+<h2 class="posts-heading">Recent Posts</h2>
+
+<ul>
+    {{ range where .Site.Pages "Kind" "page" }}
+    {{ if not .Draft }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <span class="date"> - {{ .Date.Format "2006-01-02" }}</span>
+    </li>
+    {{ end }}
+    {{ end }}
+</ul>

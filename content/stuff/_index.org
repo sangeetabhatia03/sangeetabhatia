@@ -1,0 +1,7 @@
++++
+title = "What is this?"
+draft = false
+date = "2025-07-22"
++++
+
+I aim to use this space as my commonplace book. Human generated content; everything here could be wrong.
