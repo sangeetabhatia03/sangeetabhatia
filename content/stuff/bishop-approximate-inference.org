@@ -25,12 +25,4 @@ My notes from Chapter 10 of Bishop's book.
    + approximate how? Look in a restricted space of distributions, and choose q(Z) so that KL is minimised.
      + we can't over-fit here, because given the data and the model, the posterior is fixed. We are not ``fitting'' to the posterior, we are ``approximating'' it. So we choose as flexible as a space of distributions as we can work with. This is in contrast to fitting a model to data; our observed data is but one sample from the reality, so we don't want to approximate it too closely.
   + One way of going about this: assume q distribution factorizes to a partition of Z.
-    + partition can be arbitrary, but in practice is guided by model structure. 
-       
-       
-      
-     
-        
-    
- 
- 
+    + partition can be arbitrary, but in practice is guided by model structure.  

@@ -1,0 +1,13 @@
++++
+title = "Books I have read recently"
+draft = false
+date = "2025-10-11"
++++
+
+| Title                                                       | Author            | Notes                           |
+|-------------------------------------------------------------+-------------------+---------------------------------|
+| Hitler: Ascent 1889-1939                                    | Volker Ullrich    |                                 |
+| Do No Harm: Stories of Life, Death and Brain Surgery        | Henry Marsh       | Equal parts moving and flippant |
+| The Day of the Jackal                                       | Frederick Forsyth | Meh                             |
+| Being Mortal: Illness, Medicine and What Matters in the End | Atul Gawande      |                                 |
+
