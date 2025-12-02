@@ -10,4 +10,6 @@ date = "2025-10-11"
 | Do No Harm: Stories of Life, Death and Brain Surgery        | Henry Marsh       | Equal parts moving and flippant |
 | The Day of the Jackal                                       | Frederick Forsyth | Meh                             |
 | Being Mortal: Illness, Medicine and What Matters in the End | Atul Gawande      |                                 |
+| Lula Dean's Little Library of Banned Books: A Novel | Kirsten Miller | infuriating |
+| Children of Radium: A Buried Inheritance Book | Joe Dunthorne | Strangley complex, funny, and moving. Defies single word description|
 
