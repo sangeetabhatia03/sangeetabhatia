@@ -1,7 +1,7 @@
 +++
 title = "Books I have read recently"
 draft = false
-date = "2025-12-02"
+date = "2025-12-19"
 +++
 
 | Title                                                       | Author            | Notes                           |
@@ -12,4 +12,4 @@ date = "2025-12-02"
 | Being Mortal: Illness, Medicine and What Matters in the End | Atul Gawande      |                                 |
 | Lula Dean's Little Library of Banned Books: A Novel | Kirsten Miller | infuriating |
 | Children of Radium: A Buried Inheritance Book | Joe Dunthorne | Strangley complex, funny, and moving. Defies single word description|
-
+| Bellwether | Connie Willis||
