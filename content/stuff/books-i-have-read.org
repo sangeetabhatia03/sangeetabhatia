@@ -1,7 +1,7 @@
 +++
 title = "Books I have read recently"
 draft = false
-date = "2025-12-19"
+date = "2026-01-06"
 +++
 
 | Title                                                       | Author            | Notes                           |
@@ -13,3 +13,5 @@ date = "2025-12-19"
 | Lula Dean's Little Library of Banned Books: A Novel | Kirsten Miller | infuriating |
 | Children of Radium: A Buried Inheritance Book | Joe Dunthorne | Strangley complex, funny, and moving. Defies single word description|
 | Bellwether | Connie Willis||
+| Doctored: Fraud, Arrogance, and Tragedy in the Quest to Cure Alzheimer's  | Charles Piller||
+| The Fathers | John Niven||
