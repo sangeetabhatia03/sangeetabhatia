@@ -1,7 +1,7 @@
 +++
 title = "Books I have read recently"
 draft = false
-date = "2026-02-12"
+date = "2026-02-24"
 +++
 
 | Title                                                       | Author            | Notes                           |
@@ -17,3 +17,4 @@ date = "2026-02-12"
 | The Fathers | John Niven||
 | The Shock Doctrine: The Rise of Disaster Capitalism|Naomi Klein||
 | Raising demons|Shirley Jackson||
+|Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI|Karen Hao||
